@@ -14,3 +14,4 @@ This demo also includes an image with changes on a branch for examination of ima
 
 added a line 1 RED
 added a line 2 BLUE
+added a line 3 RED
